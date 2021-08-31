@@ -5,7 +5,6 @@
 -->
 
 - 👋 Hi, I’m Beverly Castillo
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: visit beverlycastillo.me/
 - ⚡ Fun fact: Loves TBBT 
